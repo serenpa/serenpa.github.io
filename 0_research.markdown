@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-There is an emerging body of software engineering research (e.g. [1, 2, 6] that argues for the benefits of including grey literature in research: for example, that grey literature helps bridge the gap between practice and research, promotes the voice of the practitioner, and helps to better incorporate context. There are also concerns about the use of grey literature in research; for example, concerns about the ability to quality-assure content that is more likely to be subjective and therefore bias. There may also be misconceptions around the status of grey literature, for example whether a grey literature review (GLR) is treating grey literature with the same evidential value as the primary studies of a Systematic Literature Review (SLR).
+There is an emerging body of software engineering research (e.g. [1, 2, 8] that argues for the benefits of including grey literature in research: for example, that grey literature helps bridge the gap between practice and research, promotes the voice of the practitioner, and helps to better incorporate context. There are also concerns about the use of grey literature in research; for example, concerns about the ability to quality-assure content that is more likely to be subjective and therefore bias. There may also be misconceptions around the status of grey literature, for example whether a grey literature review (GLR) is treating grey literature with the same evidential value as the primary studies of a Systematic Literature Review (SLR).
 
 We are interested in a particular subset of grey literature, a subset we refer to as *blog-like content*. Some researchers (e.g. [5, 4, 3]) in software engineering have used blog-like content in their research. We use the term *blog-like content* because blogs and blog posts are good examples of the kinds of content we are interested in, however we do not intend to restrict our work only to blogs and blog posts. Being a subset of grey literature, we are aware that blog-like content inherits both the benefits and challenges of grey literature, for example that blog posts help incorporate the practitioner voice into research, that there are challenges with the quality-assurance of blog posts, and that there may be misconceptions that blog posts are being treated with the same evidential value as primary studies. Blog-like content may come with its own, additional benefits and challenges, for example the benefit of aggregating and triangulating the views of a particular blogger from multiple blog posts; and the challenges of using reader feedback to assess quality.
 
@@ -56,6 +56,16 @@ Figure 1 sketches the layers of research being undertaken in the current researc
 
 {% include image.html url="/assets/img/fig_1.PNG" description="Figure 1. The research stack (TBP-To be published)" %}
 
+## Anticipated contributions of the research programme
+Given the current scope of the SERENPA programme, the main contributions of the SERENPA research programme are anticipated to be (in the nearer-term):
+
+1. The development of various conceptual resources, such as definitions, data models and process models.
+2. The review and summary of challenges to the use of blog-like in research.
+3. The development and evaluation of a set of credibility criteria to be used to assess the quality of blog-like content.
+4. The development and evaluation of a set of heuristics for search and selection.
+5. The development and evaluation of software tools to assist with search and selection.
+6. The development and evaluation of a guidelines and methodology for using blog-like content in research, such as the case-survey methodology for blog-like content [7], and the Arguments, eXplanations and Evidence (AXE) methodology [6].
+
 ## References
 [1] Vahid Garousi, Michael Felderer, and Mika V Mantyla. “Guidelines for including grey literature and conducting multivocal literature reviews in software engineering”. In: Information and Software Technology (2018).
 
@@ -67,24 +77,12 @@ Figure 1 sketches the layers of research being undertaken in the current researc
 
 [5] Chris Parnin, Christoph Treude, and Margaret-Anne Storey. “Blogging developer knowledge: Motivations, challenges, and future directions”. In: Program Comprehension (ICPC), 2013 IEEE 21st International Conference on. IEEE. 2013, p211–214.
 
-[6] Jacopo Soldani, Damian Andrew Tamburri, and Willem-Jan Van Den Heuvel. “The Pains and Gains of Microservices: A Systematic Grey Literature Review”. In: Journal of Systems and Software (2018).
+[6] Austen Rainer. “Using argumentation theory to analyse software practitioners’ defeasible evidence, inference and belief”. In: Information and Software Technology (2017).
 
+[7] Austen Rainer and Ashley Williams. “Using blog articles in software engineering research: benefits, challenges and case-survey method”. In: Proceedings of the 25th Australasian Software Engineering Conference (ASWEC 2018). 2018
 
-<!--
+[8] Jacopo Soldani, Damian Andrew Tamburri, and Willem-Jan Van Den Heuvel. “The Pains and Gains of Microservices: A Systematic Grey Literature Review”. In: Journal of Systems and Software (2018).
 
-
-
-\section{Anticipated contributions of the research programme}
-Given the current scope of the SERENE programme, the main contributions of the SERENCE research programme are anticipated to be (in the nearer--term):
-\begin{enumerate}
-    \item The development of various conceptual resources, such as definitions, data models and process models;
-    \item The review and summary of challenges to the use of blog--like in research.
-    \item The development and evaluation of a set of credibility criteria to be used to assess the quality of blog--like content;
-    \item The development and evaluation of a set of heuristics for search and selection;
-    \item The development and evaluation of software tools to assist with search and selection;
-    \item The development and evaluation of a guidelines and methodology for using blog--like content in research, such as the case--survey methodology for blog--like content \cite{rainerASWEC2018}, and the Arguments, eXplanations and Evidence (AXE) methodology \cite{rainer2017using};
-\end{enumerate}
- -->
 
 
 
