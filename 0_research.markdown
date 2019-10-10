@@ -55,7 +55,8 @@ There are a number of significant terms within the main research question, and w
 
 Figure 1 sketches the layers of research being undertaken in the current research project. Already published papers are indicated with italicised acronyms. Papers in preparation, or to be prepared, are indicated with the acronym TBP (to be published). The acronym COAST stands for Credible Online Article Search Tool.
 
-![The research stack (TBP - To be published)](/assets/img/fig_1.PNG){: .center-image}
+{:refdef: style="text-align: center;"}
+![The research stack (TBP - To be published)](/assets/img/fig_1.PNG){: refdef}
 
 ## References
 [1] Vahid Garousi, Michael Felderer, and Mika V Mantyla. “Guidelines for including grey literature and conducting multivocal literature reviews in software engineering”. In: Information and Software Technology (2018).
@@ -71,77 +72,8 @@ Figure 1 sketches the layers of research being undertaken in the current researc
 [6] Jacopo Soldani, Damian Andrew Tamburri, and Willem-Jan Van Den Heuvel. “The Pains and Gains of Microservices: A Systematic Grey Literature Review”. In: Journal of Systems and Software (2018).
 
 
-<!-- \section{
+<!--
 
-\begin{figure}[!ht]
-\small
-\caption{The research stack (TBD = To be published)}
-\label{figure:research-stack}
-\small
-\centering
-\begin{tabular}{| p{0.3cm}| p{3cm} | p{3cm} | p{3cm} | p{0.3cm} |}
-\hline
-\hline
-\multirow{38}{0.3cm}{\begin{turn}{90}Empirical studies\end{turn}}
-& \multicolumn{3}{| c | }{} &  \multirow{38}{0.3cm}{\begin{turn}{270}Literature review\end{turn}}\\
-& \multicolumn{3}{| c | }{FUTURE WORK} & \\
-& \multicolumn{3}{| c | }{} &\\
-%\cline{2-4}
-%& \multicolumn{3}{| c | }{FUTURE WORK}\\
-\cline{2-4}
-& & & &\\
-& \multicolumn{3}{| c | }{to be confirmed\dots} & \\
-& & & &\\
-\hhline{|~===~|}
-& \multicolumn{3}{| c | }{} &\\
-& \multicolumn{3}{| c | }{EVALUATION} &\\
-& \multicolumn{3}{| c | }{} &\\
-\cline{2-4}
-& & & &\\
-& & Citations (small) & \textit{EASE'18} &\\
-& & Citations (large) & TBP &\\
-& & High Performance Teams & TBP &\\
-& & & & \\
-\hhline{|~===~|}
-& \multicolumn{3}{| c | }{} & \\
-& \multicolumn{3}{| c | }{IMPLEMENTATION} &\\
-& \multicolumn{3}{| c | }{} &\\
-\cline{2-4}
-& & & &\\
-& Software tools & COAST & TBP &\\
-& & Measures & \textit{EASE'18} &\\
-& & & &\\
-\hhline{|~===~|}
-& \multicolumn{3}{| c | }{} &\\
-& \multicolumn{3}{| c | }{CONCEPTUAL} &\\
-& \multicolumn{3}{| c | }{} &\\
-\cline{2-4}
-& & & &\\
-& & Definitions & &\\
-& & Heuristics & \textit{IST'18} &\\
-& & Process model & TBP &\\
-& & Data model & TBP &\\
-& Systematic Review & Criteria & TBP &\\
-& Case survey & & \textit{ASWEC'18} &\\
-& & & &\\
-\hhline{|~===~|}
-& \multicolumn{3}{| c | }{} &\\
-&\multicolumn{3}{| c | }{MOTIVATION \& CHALLENGES} &\\
-& \multicolumn{3}{| c | }{} &\\
-\cline{2-4}
-& & & &\\
-& Why do this? &  & \textit{ASWEC'18} &\\
-& & & \textit{IST'17} &\\
-& & & &\\
-\hline
-\hline
-\multicolumn{5}{| c | }{}\\
-\multicolumn{5}{| c | }{\textbf{SERENE}}\\
-\multicolumn{5}{| c | }{Software Engineering Research Exploiting Natural Evidence}\\
-\multicolumn{5}{| c | }{}\\
-\hline
-\end{tabular}
-\end{figure}
 
 
 \section{Anticipated contributions of the research programme}
