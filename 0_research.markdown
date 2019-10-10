@@ -51,6 +51,12 @@ There are a number of significant terms within the main research question, and w
 7. How do we define and measure *effective* and *efficient* selection?
     * We develop software tools.
 
+## The research 'stack' for the current research project
+
+Figure 1 sketches the layers of research being undertaken in the current research project. Already published papers are indicated with italicised acronyms. Papers in preparation, or to be prepared, are indicated with the acronym TBP (to be published). The acronym COAST stands for Credible Online Article Search Tool.
+
+![The research stack (TBP - To be published)](/assets/img/fig_1.PNG)
+
 ## References
 [1] Vahid Garousi, Michael Felderer, and Mika V Mantyla. “Guidelines for including grey literature and conducting multivocal literature reviews in software engineering”. In: Information and Software Technology (2018).
 
@@ -65,9 +71,7 @@ There are a number of significant terms within the main research question, and w
 [6] Jacopo Soldani, Damian Andrew Tamburri, and Willem-Jan Van Den Heuvel. “The Pains and Gains of Microservices: A Systematic Grey Literature Review”. In: Journal of Systems and Software (2018).
 
 
-<!-- \section{The research `stack' for the current research project}
-
-Figure \ref{figure:research-stack} sketches the layers of research being undertaken in the current research project. Already published papers are indicated with italicised acronyms. Papers in preparation, or to be prepared, are indicated with the acronym TBP (to be published). The acronym COAST stands for Credible Online Articles Search Tool.
+<!-- \section{
 
 \begin{figure}[!ht]
 \small
