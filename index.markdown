@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<!-- # Software Engineering Research Exploiting Naturally Produced Artefacts -->
+# Software Engineering Research Exploiting Naturally Produced Artefacts
 
 Over many years, software engineering research has used a range of practitioner-generated content e.g. interviews, surveys, project documents, ethnography. More recently, an emerging body of software engineering research has begun to use grey literature. One frequently-occurring type of grey literature is the blog post. Whilst there are prospective benefits to the use of grey literature and blog posts in software engineering research, there are also concerns about the quality of such material.
 
