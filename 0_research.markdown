@@ -52,11 +52,10 @@ There are a number of significant terms within the main research question, and w
     * We develop software tools.
 
 ## The research 'stack' for the current research project
-
 Figure 1 sketches the layers of research being undertaken in the current research project. Already published papers are indicated with italicised acronyms. Papers in preparation, or to be prepared, are indicated with the acronym TBP (to be published). The acronym COAST stands for Credible Online Article Search Tool.
 
-{:refdef: style="text-align: center;"}
-![The research stack (TBP - To be published)](/assets/img/fig_1.PNG){: refdef}
+{: .center}
+![The research stack (TBP - To be published)](/assets/img/fig_1.PNG)
 
 ## References
 [1] Vahid Garousi, Michael Felderer, and Mika V Mantyla. “Guidelines for including grey literature and conducting multivocal literature reviews in software engineering”. In: Information and Software Technology (2018).
